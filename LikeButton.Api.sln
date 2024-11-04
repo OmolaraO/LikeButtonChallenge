@@ -1,0 +1,37 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LikeButton", "LikeButton.csproj", "{AF813EDC-293F-4255-A29C-5DED1339F355}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LikeButton.Entities", "..\LikeButton.Entities\LikeButton.Entities.csproj", "{55E8AE1B-DCF4-4292-91A0-142FCAC91F24}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LikeButton.Services", "..\LikeButton.Services\LikeButton.Services.csproj", "{55D36430-5CBE-47E8-BD0C-FD471E6E7749}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{AF813EDC-293F-4255-A29C-5DED1339F355}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF813EDC-293F-4255-A29C-5DED1339F355}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF813EDC-293F-4255-A29C-5DED1339F355}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF813EDC-293F-4255-A29C-5DED1339F355}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55E8AE1B-DCF4-4292-91A0-142FCAC91F24}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55E8AE1B-DCF4-4292-91A0-142FCAC91F24}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55E8AE1B-DCF4-4292-91A0-142FCAC91F24}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55E8AE1B-DCF4-4292-91A0-142FCAC91F24}.Release|Any CPU.Build.0 = Release|Any CPU
+		{55D36430-5CBE-47E8-BD0C-FD471E6E7749}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{55D36430-5CBE-47E8-BD0C-FD471E6E7749}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{55D36430-5CBE-47E8-BD0C-FD471E6E7749}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{55D36430-5CBE-47E8-BD0C-FD471E6E7749}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE9E371B-FCB4-4F72-9E0E-D96BEE94B2AD}
+	EndGlobalSection
+EndGlobal
