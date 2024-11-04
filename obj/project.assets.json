@@ -1209,45 +1209,6 @@
             "rid": "win"
           }
         }
-      },
-      "LikeButton.Entities/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "AspNetCoreRateLimit": "5.0.0",
-          "Microsoft.Data.Sqlite": "8.0.10",
-          "Microsoft.EntityFrameworkCore": "6.0.35",
-          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.9",
-          "Microsoft.EntityFrameworkCore.Sqlite.Core": "6.0.22",
-          "Microsoft.SqlServer.Server": "1.0.0",
-          "Npgsql.EntityFrameworkCore.PostgreSQL": "6.0.22"
-        },
-        "compile": {
-          "bin/placeholder/LikeButton.Entities.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/LikeButton.Entities.dll": {}
-        }
-      },
-      "LikeButton.Services/1.0.0": {
-        "type": "project",
-        "framework": ".NETCoreApp,Version=v6.0",
-        "dependencies": {
-          "AspNetCoreRateLimit": "5.0.0",
-          "LikeButton.Entities": "1.0.0",
-          "Microsoft.Data.Sqlite": "8.0.10",
-          "Microsoft.EntityFrameworkCore": "6.0.35",
-          "Microsoft.EntityFrameworkCore.SqlServer": "6.0.9",
-          "Microsoft.EntityFrameworkCore.Sqlite.Core": "6.0.22",
-          "Microsoft.SqlServer.Server": "1.0.0",
-          "Npgsql.EntityFrameworkCore.PostgreSQL": "6.0.22"
-        },
-        "compile": {
-          "bin/placeholder/LikeButton.Services.dll": {}
-        },
-        "runtime": {
-          "bin/placeholder/LikeButton.Services.dll": {}
-        }
       }
     }
   },
@@ -2982,22 +2943,11 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
-    },
-    "LikeButton.Entities/1.0.0": {
-      "type": "project",
-      "path": "../LikeButton.Entities/LikeButton.Entities.csproj",
-      "msbuildProject": "../LikeButton.Entities/LikeButton.Entities.csproj"
-    },
-    "LikeButton.Services/1.0.0": {
-      "type": "project",
-      "path": "../LikeButton.Services/LikeButton.Services.csproj",
-      "msbuildProject": "../LikeButton.Services/LikeButton.Services.csproj"
     }
   },
   "projectFileDependencyGroups": {
     "net6.0": [
       "AspNetCoreRateLimit >= 5.0.0",
-      "LikeButton.Services >= 1.0.0",
       "Microsoft.Data.Sqlite >= 8.0.10",
       "Microsoft.EntityFrameworkCore >= 6.0.35",
       "Microsoft.EntityFrameworkCore.Design >= 6.0.22",
@@ -3035,11 +2985,7 @@
       "frameworks": {
         "net6.0": {
           "targetAlias": "net6.0",
-          "projectReferences": {
-            "C:\\Users\\Omolara\\source\\repos\\LikeButton.Services\\LikeButton.Services.csproj": {
-              "projectPath": "C:\\Users\\Omolara\\source\\repos\\LikeButton.Services\\LikeButton.Services.csproj"
-            }
-          }
+          "projectReferences": {}
         }
       },
       "warningProperties": {

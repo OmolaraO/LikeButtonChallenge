@@ -15,10 +15,6 @@ C:\Users\Omolara\source\repos\LikeButton\bin\Debug\net6.0\Swashbuckle.AspNetCore
 C:\Users\Omolara\source\repos\LikeButton\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\Omolara\source\repos\LikeButton\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\Omolara\source\repos\LikeButton\bin\Debug\net6.0\System.Diagnostics.DiagnosticSource.dll
-C:\Users\Omolara\source\repos\LikeButton\bin\Debug\net6.0\LikeButton.Entities.dll
-C:\Users\Omolara\source\repos\LikeButton\bin\Debug\net6.0\LikeButton.Services.dll
-C:\Users\Omolara\source\repos\LikeButton\bin\Debug\net6.0\LikeButton.Services.pdb
-C:\Users\Omolara\source\repos\LikeButton\bin\Debug\net6.0\LikeButton.Entities.pdb
 C:\Users\Omolara\source\repos\LikeButton\obj\Debug\net6.0\LikeButton.csproj.AssemblyReference.cache
 C:\Users\Omolara\source\repos\LikeButton\obj\Debug\net6.0\LikeButton.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\Omolara\source\repos\LikeButton\obj\Debug\net6.0\LikeButton.AssemblyInfoInputs.cache
